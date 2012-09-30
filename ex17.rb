@@ -1,0 +1,1 @@
+File.write(ARGV[1], File.read(ARGV[0]))
